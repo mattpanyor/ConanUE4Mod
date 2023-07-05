@@ -1,18 +1,18 @@
 {
-	"name": "HeavenProject 1.3.2",
+	"name": "HeavenProject 1.3.7",
 	"description": "Please do not use. Test only.",
-	"changeNote": "- platform update",
+	"changeNote": "- wall break",
 	"author": "MattKing",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 3,
-	"versionBuild": 2,
+	"versionBuild": 8,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2929892126",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "HeavenProject",
-	"revisionNumber": 452984,
-	"snapshotId": 36050,
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
 	"fileSize": 9
 }
